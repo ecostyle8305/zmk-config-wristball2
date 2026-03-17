@@ -18,8 +18,8 @@
 #
 ---
 include:
- - board: xiao_ble@nrf52840
+ - board: seeeduino_xiao_ble
    shield: wristball2 rgbled_adapter
    snippet: studio-rpc-usb-uart
- - board: xiao_ble@nrf52840
+ - board: seeeduino_xiao_ble
    shield: settings_reset
